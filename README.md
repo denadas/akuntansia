@@ -215,4 +215,6 @@ Menu ini menampilkan neraca saldo, penyesuaian, neraca saldo disesuaikan, lapora
 ## Menu "Jurnal Penutup"
 ![image](https://github.com/denadasinaga/akuntansia/assets/152132024/cbd997e2-481d-4850-8981-9b5adc7eb7f6)
 
+## Flowchart aplikasi
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/004efd1a-cbec-4793-8bdd-4bb6e877a7e1)
 
