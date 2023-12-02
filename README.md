@@ -170,5 +170,49 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Donasinya Kakak https://saweria.co/maulanakevinp Terima Kasih ^_^
 
-## Tampilan Awal
-![2023-11-22 (1)](https://github.com/denadasinaga/akuntansia/assets/152132024/6e68c25c-4487-49bb-899e-8942fcb87b42)
+## Halaman Login
+User bisa login menggunakan email dan password
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/c5a16204-e291-4dff-ab15-7d58100b8afc)
+
+## Dashboard
+User dapat memilih menu yang akan dikerjakan
+![2023-12-02 (1)](https://github.com/denadasinaga/akuntansia/assets/152132024/bf8113ca-4397-45e0-94f3-d1ee780f90f1)
+
+## Menu "Akun"
+![2023-11-24 (3)](https://github.com/denadasinaga/akuntansia/assets/152132024/6ddbec83-6970-4ec7-abbd-c39faaaf0a19)
+
+## Menu "Jurnal Umum"
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/4b4468bf-cbeb-4e67-8997-02f8349a2749)
+
+## Membuat jurnal umum
+User dapat membuat jurnal umum berdasarkan transaksi yang telah terjadi
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/165efef7-0d86-4c96-9525-69468ea6f0f1)
+
+## Menu "Jurnal Penyesuaian"
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/fc5759a2-b3af-4646-aced-ff556616cdbb)
+
+## Membuat jurnal penyesuaian
+User dapat melakukan penyesuaian di dalam menu ini
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/84bd63a4-cbf1-4ee0-a321-c66c4855142f)
+
+## Menu "Buku Besar"
+Menu ini menampilkan akun yang dapat ingin dipilih oleh user sesuai kriteria/periode
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/ad99b58f-be0a-4005-be6d-05df61382496)
+
+## Menu "Neraca Lajur"
+Menu ini menampilkan neraca saldo, penyesuaian, neraca saldo disesuaikan, laporan laba rugi, dan neraca. 
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/0231d94c-aed0-423c-9597-f88cad99aed3)
+
+## Menu "Laporan Perubahan Ekuitas"
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/9c5882f4-2bb5-414a-9470-f8e34cb311ce)
+
+## Menu "Laporan Laba Rugi"
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/1d702ac2-5955-4f1f-a510-06cbe4d9b733)
+
+## Menu "Laporan Posisi Keuangan"
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/1a74c9f1-848a-44f9-a474-f124deb9951b)
+
+## Menu "Jurnal Penutup"
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/cbd997e2-481d-4850-8981-9b5adc7eb7f6)
+
+
