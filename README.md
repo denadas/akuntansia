@@ -188,12 +188,18 @@ User dapat memilih menu yang akan dikerjakan
 User dapat membuat jurnal umum berdasarkan transaksi yang telah terjadi
 ![image](https://github.com/denadasinaga/akuntansia/assets/152132024/165efef7-0d86-4c96-9525-69468ea6f0f1)
 
+## Tampilan jurnal umum pada laravel di xampp setelah jurnal umum ditambah pada aplikasi
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/9d37a60a-7b04-4d4f-8c61-3b44fd36fcf5)
+
 ## Menu "Jurnal Penyesuaian"
 ![image](https://github.com/denadasinaga/akuntansia/assets/152132024/fc5759a2-b3af-4646-aced-ff556616cdbb)
 
 ## Membuat jurnal penyesuaian
 User dapat melakukan penyesuaian di dalam menu ini
 ![image](https://github.com/denadasinaga/akuntansia/assets/152132024/84bd63a4-cbf1-4ee0-a321-c66c4855142f)
+
+## Tampilan jurnal penyesuaian pada laravel di xampp setelah jurnal penyesuaian ditambah pada aplikasi
+![image](https://github.com/denadasinaga/akuntansia/assets/152132024/c9fc93a1-1b6b-4bb9-bacc-7af41e8b5282)
 
 ## Menu "Buku Besar"
 Menu ini menampilkan akun yang dapat ingin dipilih oleh user sesuai kriteria/periode
